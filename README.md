@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Simon Raj 👋
 
-<!--
-**Simon0907/Simon0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Full Stack Developer
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Spring Boot
+* Angular
+* SQL/MySQL
+* HTML/CSS/JavaScript
+
+### Projects
+
+* Cake Shop Website
+* CRUD Management System
+* REST API Applications
+
+### Currently Learning
+
+* Spring Security
+* JWT Authentication
+* Microservices
+
+📫 Open to Java Full Stack Developer opportunities
